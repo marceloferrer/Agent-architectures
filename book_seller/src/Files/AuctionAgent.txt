@@ -1,0 +1,33 @@
+BOOK NAME - INITIAL PRICE - FINAL PRICE - BUYER
+Don Quixote - 1000.0 - 4564.75 - Reactive2
+A Tale of Two Cities - 200.0 - 4827.51 - Reactive2
+The Lord of the Rings - 150.0 - 3593.71 - Delibera2
+The Little Prince - 300.0 - 4259.57 - Reactive1
+HP Sorcerers Stone - 200.0 - 5301.0 - Reactive1
+And Then There None - 200.0 - 6868.0 - Reactive1
+The Dream Chamber - 500.0 - 13043.25 - Reactive1
+The Hobbit - 250.0 - 2621.44 - Reactive1
+Lion, Witch, Wardrobe - 100.0 - 828.06 - Delibera2
+The Da Vinci Code - 100.0 - 3329.57 - Reactive1
+To Kill a Mockingbird - 300.0 - 3668.96 - Reactive2
+1984 - 250.0 - 4194.3 - Reactive1
+The Great Gatsby - 100.0 - 7460.0 - Delibera2
+Pride and Prejudice - 100.0 - 16983.57 - Reactive2
+The Diary Young Girl - 500.0 - 3481.6 - Reactive2
+The Book Thief - 100.0 - 12625.96 - Reactive2
+Little Women - 150.0 - 8574.47 - Reactive1
+Fahrenheit 451 - 300.0 - 7710.25 - Reactive2
+Jane Eyre - 100.0 - 5026.58 - Reactive2
+Animal Farm - 1000.0 - 11713.52 - Reactive2
+Lord of the Flies - 500.0 - 6300.21 - Reactive2
+Of Mice and Men - 150.0 - 9690.26 - Delibera2
+The Kite Runner - 200.0 - 9966.01 - Delibera2
+Romeo and Juliet - 500.0 - 8500.0 - Delibera1
+Hitchhikers Guide - 200.0 - 12763.75 - Delibera2
+Wuthering Heights - 100.0 - 271.0 - Delibera2
+Alice in Wonderland - 400.0 - 18818.36 - Reactive2
+Frankenstein - 200.0 - 16137.68 - Delibera2
+Huckleberry Finn - 1000.0 - 10264.02 - Delibera1
+A tale Three Cities - 300.0 - 27751.37 - Delibera1
+
+Final profit of auction: 241688.73

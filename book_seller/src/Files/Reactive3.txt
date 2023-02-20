@@ -1,0 +1,44 @@
+PURCHASE
+BOOK NAME - PRICE
+The Hobbit - 29646.86
+Animal Farm - 37413.23
+The Kite Runner - 8952.47
+Romeo and Juliet - 4473.32
+Hitchhikers Guide - 10562.51
+Huckleberry Finn - 7615.15
+Remaining budget: 1336.4614
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+10
+7
+3
+6
+5
+2
+0
+10
+6
+0
+2
+4
+5
+7
+5
+2
+0
+7
+6
+7
+0
+3
+10
+7
+8
+0
+6
+5
+7
+1
+Initial Budget: 100000.0
+Aggressiveness: 4

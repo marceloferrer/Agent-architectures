@@ -1,0 +1,47 @@
+PURCHASE
+BOOK NAME - PRICE
+The Little Prince - 4860.0
+HP Sorcerers Stone - 6600.0
+Lion, Witch, Wardrobe - 4334.13
+1984 - 7850.0
+The Diary Young Girl - 5469.51
+Fahrenheit 451 - 9900.0
+Romeo and Juliet - 6285.09
+Hitchhikers Guide - 16289.69
+A tale Three Cities - 25203.45
+Remaining budget: 13208.129
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+1
+2
+0
+9
+10
+6
+8
+1
+9
+6
+0
+9
+1
+5
+7
+3
+6
+10
+3
+4
+6
+2
+6
+4
+9
+6
+1
+0
+6
+7
+Initial Budget: 100000.0
+Aggressiveness: 8

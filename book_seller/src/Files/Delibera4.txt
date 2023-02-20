@@ -1,0 +1,12 @@
+PURCHASE
+BOOK NAME - PRICE
+The Lord of the Rings - 29137.04
+Remaining budget: 70862.96
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+3
+3
+7
+Initial Budget: 100000.0
+Aggressiveness: 9

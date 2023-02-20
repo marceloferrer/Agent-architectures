@@ -1,0 +1,45 @@
+PURCHASE
+BOOK NAME - PRICE
+To Kill a Mockingbird - 14217.82
+The Great Gatsby - 11858.79
+The Diary Young Girl - 10710.35
+Fahrenheit 451 - 26389.14
+Of Mice and Men - 4024.91
+Wuthering Heights - 15393.91
+Alice in Wonderland - 10824.32
+Remaining budget: 6580.758
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+7
+5
+5
+2
+2
+9
+8
+8
+5
+1
+8
+6
+9
+0
+8
+0
+7
+10
+6
+9
+4
+7
+6
+1
+5
+10
+9
+1
+9
+1
+Initial Budget: 100000.0
+Aggressiveness: 5

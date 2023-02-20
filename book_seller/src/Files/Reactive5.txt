@@ -1,0 +1,40 @@
+PURCHASE
+BOOK NAME - PRICE
+And Then There None - 30787.47
+1984 - 17539.29
+Remaining budget: 1673.2402
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+6
+0
+1
+7
+2
+10
+10
+8
+9
+2
+4
+10
+6
+9
+5
+9
+8
+5
+1
+10
+6
+10
+3
+4
+0
+10
+0
+4
+2
+9
+Initial Budget: 50000.0
+Aggressiveness: 5

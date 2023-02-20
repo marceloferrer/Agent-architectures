@@ -1,0 +1,46 @@
+PURCHASE
+BOOK NAME - PRICE
+The Lord of the Rings - 3593.71
+Lion, Witch, Wardrobe - 828.06
+The Great Gatsby - 7460.0
+Of Mice and Men - 9690.26
+The Kite Runner - 9966.01
+Hitchhikers Guide - 12763.75
+Wuthering Heights - 271.0
+Frankenstein - 16137.68
+Remaining budget: 39289.53
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+6
+4
+8
+6
+9
+10
+10
+0
+6
+3
+0
+3
+10
+7
+4
+9
+7
+2
+6
+6
+7
+7
+7
+9
+8
+9
+4
+6
+3
+7
+Initial Budget: 100000.0
+Aggressiveness: 3

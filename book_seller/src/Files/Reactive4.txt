@@ -1,0 +1,40 @@
+PURCHASE
+BOOK NAME - PRICE
+Don Quixote - 89387.17
+HP Sorcerers Stone - 10053.05
+Remaining budget: 559.7783
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+10
+4
+2
+8
+7
+7
+3
+6
+9
+2
+10
+7
+2
+4
+6
+8
+5
+0
+6
+3
+9
+9
+4
+0
+9
+5
+5
+8
+3
+10
+Initial Budget: 100000.0
+Aggressiveness: 8

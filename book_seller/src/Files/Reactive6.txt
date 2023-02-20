@@ -1,0 +1,43 @@
+PURCHASE
+BOOK NAME - PRICE
+A Tale of Two Cities - 17592.84
+The Da Vinci Code - 5157.46
+Pride and Prejudice - 19835.96
+The Book Thief - 3991.09
+Jane Eyre - 3401.23
+Remaining budget: 21.418213
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+2
+8
+9
+5
+0
+1
+1
+6
+9
+7
+2
+1
+5
+9
+6
+8
+1
+5
+9
+1
+3
+7
+1
+8
+8
+3
+3
+9
+0
+1
+Initial Budget: 50000.0
+Aggressiveness: 7

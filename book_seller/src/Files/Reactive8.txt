@@ -1,0 +1,41 @@
+PURCHASE
+BOOK NAME - PRICE
+The Little Prince - 31248.72
+The Dream Chamber - 55099.8
+Little Women - 13194.79
+Remaining budget: 456.69043
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+3
+4
+2
+8
+7
+5
+9
+7
+3
+6
+8
+10
+5
+8
+1
+1
+8
+1
+2
+3
+0
+0
+4
+1
+1
+2
+5
+2
+8
+6
+Initial Budget: 100000.0
+Aggressiveness: 7

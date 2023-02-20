@@ -1,0 +1,42 @@
+PURCHASE
+BOOK NAME - PRICE
+Lion, Witch, Wardrobe - 35620.46
+Lord of the Flies - 4054.23
+Frankenstein - 5416.59
+A tale Three Cities - 2505.63
+Remaining budget: 2403.0889
+
+INITIAL CONFIGURATION
+Interest (TO UNIFY IN EXCEL FOR REPORT)
+1
+7
+0
+2
+7
+8
+3
+7
+10
+0
+1
+1
+9
+3
+4
+5
+1
+7
+0
+4
+6
+5
+3
+4
+8
+8
+4
+10
+10
+10
+Initial Budget: 50000.0
+Aggressiveness: 4
