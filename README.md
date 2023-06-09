@@ -1,5 +1,5 @@
 # Agent-architectures
-MultiAgent Systems Agent architectures
+MultiAgent Systems Agent architectures. Master USC.
 
 The goal of this project is to develop an auction environment for a book trading simulation using JADE, a Java-based multi-agent platform. The environment will consist of an auctioneer agent and two types of bidder agents: reactive and deliberative.
 
